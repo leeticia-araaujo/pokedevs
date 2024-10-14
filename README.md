@@ -1,6 +1,6 @@
 ## Projeto Pokedevs
 
-![](./img/screenshot.jpeg)
+![](img/screenshot.jpeg)
 
 ## ✨ Sobre o Projeto
 
