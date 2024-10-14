@@ -1,0 +1,33 @@
+@media(max-width: 750px){ /*se a tela for menor que 750px aplicar o codigo abaixo*/
+    section{
+        flex-direction: column;
+        padding: 15px 0px;
+        align-items: center;
+    }
+
+    .cartao{
+        max-width: 340px;
+    }
+
+    h3{
+        font-size: 16px;
+    }
+
+    nav{
+        max-width: 340px;
+    }
+
+    nav ul{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 8px;
+    }
+
+    li{
+        border-radius: 50px;
+        width: 40%;
+        margin: 0px;
+    }
+}
